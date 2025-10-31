@@ -60,6 +60,8 @@ The system classifies user-input text as **Positive**, **Negative**, or **Neutra
 # Result
 <img width="1080" height="352" alt="image" src="https://github.com/user-attachments/assets/a470a539-2da0-4e83-829a-a440e56a761d" />
 <img width="1071" height="341" alt="image" src="https://github.com/user-attachments/assets/4d2d7519-7920-48b9-9a90-c0edcd5319f6" />
+<img width="1028" height="428" alt="image" src="https://github.com/user-attachments/assets/570b3386-c0be-49a1-a8dc-90fd64b7a4ff" />
+
 
 
 
